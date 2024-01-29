@@ -62,7 +62,6 @@ function Home() {
     <PageContainer>
       <ScrollView>
         <FlexColumnCard
-          height={ScreenHeight * 0.6}
           justifyContent="space-between"
           style={{
             backgroundColor: Colors.Black,
@@ -120,11 +119,11 @@ function Home() {
             </Button>
           </FlexRowCard>
           <FlexColumnCard
-            height={ScreenHeight * 0.1}
+            height={ScreenHeight * 0.05}
             style={{
               backgroundColor: Colors.White,
-              borderTopRightRadius: 42.5,
-              borderTopLeftRadius: 40,
+              borderTopRightRadius: 60,
+              borderTopLeftRadius: 50,
             }}
           />
         </FlexColumnCard>

@@ -18,6 +18,7 @@ const DropdownComponent = ({value, setValue, data}) => {
         data={data}
         search
         maxHeight={300}
+        itemTextStyle={{color: Colors.Grey_3}}
         labelField="label"
         valueField="value"
         placeholder={!isFocus ? 'Select item' : '...'}
@@ -48,6 +49,8 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderRadius: 8,
     paddingHorizontal: 8,
+    color: Colors.Grey_3,
+
   },
   icon: {
     marginRight: 5,
@@ -79,5 +82,6 @@ const styles = StyleSheet.create({
   inputSearchStyle: {
     height: 40,
     fontSize: 16,
+    color: Colors.Grey_3,
   },
 });
