@@ -65,9 +65,12 @@ const styles = StyleSheet.create({
   },
   placeholderStyle: {
     fontSize: 16,
+    color: Colors.Grey_3,
   },
   selectedTextStyle: {
     fontSize: 16,
+    color: Colors.Grey_3,
+
   },
   iconStyle: {
     width: 20,

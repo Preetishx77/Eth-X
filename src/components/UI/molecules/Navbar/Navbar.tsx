@@ -11,7 +11,7 @@ function Navbar() {
       width="100%"
       justifyContent="space-between"
       isHorizontalPadding={true}
-      style={{paddingTop: 55, paddingLeft: 16, paddingRight: 16, paddingBottom: 0}}>
+      style={{paddingTop: 55, paddingLeft: 16, paddingRight: 16, paddingBottom: 15}}>
       <UserIcon width={24} height={24} />
       <Typography
         variant="title1"

@@ -18,6 +18,7 @@ const Container = styled.View`
 const StyledInput = styled.TextInput`
   flex: 1;
   height: 60px;
+  color: ${Colors.Black}
 `;
 
 const Label = styled.Text`

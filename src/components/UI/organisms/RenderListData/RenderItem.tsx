@@ -54,7 +54,7 @@ export const renderTransactionItem = ({item}) => (
             {item.symbol}
           </Typography>
           <Typography variant={'caption1'} fontWeight={500} color="Grey_3">
-            Receiver: {'0x...' + item.recipient?.slice(-5)}
+            {'0x..' + item.recipient?.slice(-5)}
           </Typography>
         </FlexColumnCard>
       </FlexRowCard>

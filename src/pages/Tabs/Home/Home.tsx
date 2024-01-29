@@ -62,7 +62,7 @@ function Home() {
     <PageContainer>
       <ScrollView>
         <FlexColumnCard
-          height={ScreenHeight * 0.56}
+          height={ScreenHeight * 0.6}
           justifyContent="space-between"
           style={{
             backgroundColor: Colors.Black,
