@@ -2,7 +2,7 @@
 ![image](https://github.com/Preetishx77/Eth-X/assets/78357366/ab7fdccd-54d7-4b63-8271-035dae54edff)
 
 
-![image](https://github.com/Preetishx77/Eth-X/assets/78357366/aa93417e-4473-4952-a28c-627db33caa20)
+![image](https://github.com/Preetishx77/Eth-X/assets/78357366/aaf041f6-c85c-4864-b124-70c499473498)
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
